@@ -40,8 +40,7 @@ Certifique-se de ter o Python instalado.
 
 Baixe ou clone o projeto:
 
-git clone https://github.com/SEU-USUARIO/SEU-REPO.git
-
+git clone https://github.com/Kevin-Michael-pacheco/Sistema-de-Gerenciamento-de-Alunos
 
 Entre na pasta do projeto:
 
